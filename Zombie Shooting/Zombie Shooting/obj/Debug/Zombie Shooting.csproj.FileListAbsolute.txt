@@ -1,0 +1,11 @@
+C:\Users\Comp\Desktop\Zombie Shooting\Zombie Shooting\obj\Debug\Zombie Shooting.csproj.AssemblyReference.cache
+C:\Users\Comp\Desktop\Zombie Shooting\Zombie Shooting\obj\Debug\Zombie Shooting.csproj.SuggestedBindingRedirects.cache
+C:\Users\Comp\Desktop\Zombie Shooting\Zombie Shooting\obj\Debug\Zombie_Shooting.Form1.resources
+C:\Users\Comp\Desktop\Zombie Shooting\Zombie Shooting\obj\Debug\Zombie_Shooting.Properties.Resources.resources
+C:\Users\Comp\Desktop\Zombie Shooting\Zombie Shooting\obj\Debug\Zombie Shooting.csproj.GenerateResource.cache
+C:\Users\Comp\Desktop\Zombie Shooting\Zombie Shooting\obj\Debug\Zombie Shooting.csproj.CoreCompileInputs.cache
+C:\Users\Comp\Desktop\Zombie Shooting\Zombie Shooting\bin\Debug\Zombie Shooting.exe.config
+C:\Users\Comp\Desktop\Zombie Shooting\Zombie Shooting\bin\Debug\Zombie Shooting.exe
+C:\Users\Comp\Desktop\Zombie Shooting\Zombie Shooting\bin\Debug\Zombie Shooting.pdb
+C:\Users\Comp\Desktop\Zombie Shooting\Zombie Shooting\obj\Debug\Zombie Shooting.exe
+C:\Users\Comp\Desktop\Zombie Shooting\Zombie Shooting\obj\Debug\Zombie Shooting.pdb
