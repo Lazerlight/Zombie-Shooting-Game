@@ -20,9 +20,9 @@ namespace Zombie_Shooting
 
         public void MakeBullet(Form form)
         {
-            bullet.BackColor = Color.White;
+            bullet.BackColor = Color.Yellow;
             bullet.Size = new Size(5, 5);
-            bullet.Tag = "Bullet";
+            bullet.Tag = "bullet";
             bullet.Left = bulletLeft;
             bullet.Top = bulletTop;
             bullet.BringToFront();
